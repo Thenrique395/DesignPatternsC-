@@ -1,0 +1,14 @@
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\bin\Debug\netcoreapp3.1\DesignerPatternsCSharp.exe
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\bin\Debug\netcoreapp3.1\DesignerPatternsCSharp.deps.json
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\bin\Debug\netcoreapp3.1\DesignerPatternsCSharp.runtimeconfig.json
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\bin\Debug\netcoreapp3.1\DesignerPatternsCSharp.runtimeconfig.dev.json
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\bin\Debug\netcoreapp3.1\DesignerPatternsCSharp.dll
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\bin\Debug\netcoreapp3.1\DesignerPatternsCSharp.pdb
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.csproj.AssemblyReference.cache
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.AssemblyInfoInputs.cache
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.AssemblyInfo.cs
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.dll
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.pdb
+C:\Users\thenr\OneDrive\Área de Trabalho\DesignerPatternsCSharp\DesignerPatternsCSharp\obj\Debug\netcoreapp3.1\DesignerPatternsCSharp.genruntimeconfig.cache

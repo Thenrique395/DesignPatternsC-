@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DesignerPatternsCSharp.Decorator;
+using DesignerPatternsCSharp.Decorator.Interface;
+using System;
 
 namespace DesignerPatternsCSharp
 {
@@ -6,7 +8,20 @@ namespace DesignerPatternsCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            IPizza pizza = new Pizza();
+
+            //Console.WriteLine(pizza.BuyscarTipoPizza());
+
+            IPizza queijoDecorator = new QueijoDecorator(pizza);
+            Console.WriteLine(queijoDecorator.BuyscarTipoPizza());
+
+            IPizza baconDecorator = new BaconDecorator(queijoDecorator);
+            Console.WriteLine(baconDecorator.BuyscarTipoPizza());
+
+            IPizza cebolaDecorator = new CebolaDecorator(baconDecorator);
+            Console.WriteLine(baconDecorator.BuyscarTipoPizza());
+
         }
     }
 }
